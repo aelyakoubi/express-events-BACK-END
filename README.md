@@ -7,3 +7,4 @@ Computer language: JavaScript, Node.JS, Prisma, MySQL
 -----------------------
 
 Set up: npm install, har-validator@latest, uuid@latest, npm install, npm run dev
+------------------------
