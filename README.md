@@ -7,4 +7,4 @@ Windows, Visual Studio Code
 Computer language: JavaScript, Node.JS, Prisma, MySQL
 -----------------------
 
-Set up: npm install,  npm install har-validator@latest,  npm install uuid@latest,  npm install,  npm run dev
+Set up: npm install, har-validator@latest, uuid@latest, npm install, npm run dev
