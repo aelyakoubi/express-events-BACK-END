@@ -1,12 +1,12 @@
 This project was "in fact" the back-end for my front-end project React Basics Project with the topic events
 
 
-Made with: Windows, Visual Studio Code
+Made with: ```Windows, Visual Studio Code```
 
-Computer language: JavaScript, Node.JS, Prisma, MySQL
+Computer language: ```JavaScript, Node.JS, Prisma, MySQL```
 -----------------------------------------------------
 
-Security Authentication: Normal level with username and password / login and token
+Security Authentication: ```Normal level with username and password / login and token```
 -----------------------------------------------------
 
 Set up: ```
