@@ -1,7 +1,6 @@
 import express from "express";
 import * as Sentry from "@sentry/node";
 import "dotenv/config";
-
 import usersRouter from "./routes/users.js";
 import eventsRouter from "./routes/events.js";
 import categoriesRouter from "./routes/categories.js";
@@ -43,6 +42,11 @@ app.use("/categories", categoriesRouter);
 
 // Login
 app.use("/login", loginRouter);
+
+app.get("/", (req, res) => {
+  res.send("Hello World!");
+});
+
 
 // Trace errors
 // The error handler must be registered before any other error middleware and after all controllers
